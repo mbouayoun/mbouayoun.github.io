@@ -1,10 +1,14 @@
-##  Bienvenue dans les pages de Mohammed Bouayoun
+##  Mohammed Bouayoun
 
 You can use the [editor on GitHub](https://github.com/mbouayoun/mbouayoun.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### FORMATION
+** DSTI Master Applied MSc in Data Science & Artificial Intelligence**
+** Université de Rouen**
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
