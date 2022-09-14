@@ -1,8 +1,11 @@
 ##  Mohammed Bouayoun
 
 
-### FORMATION
-**DSTI Master Applied MSc in Data Science & Artificial Intelligence**
+### FORMATION  
+  
+**DSTI Master Applied MSc in Data Science & Artificial Intelligence**  
+  
+    
 **Université de Rouen**
 
 ### PARCOURS PROFESSIONNEL
